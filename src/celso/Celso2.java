@@ -16,10 +16,9 @@ public class Celso2 {
     
     
     public static void main(String[] args) {
-        
+        int num3,num4,resultado1;
     
     Scanner resta= new Scanner(System.in);
-        int num3,num4,resultado1;
         System.out.println("Por favor, ingresa el primer número");
         num3= resta.nextInt();
         System.out.println("Por favor, ingresa el segundo número");
