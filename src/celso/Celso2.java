@@ -25,7 +25,7 @@ public class Celso2 {
         System.out.println("Por favor, ingresa el segundo número");
         num4= resta.nextInt();
         resultado1= num3 - num4;
-        System.out.println("La resta de ambos números es "+ resultado1);
+        System.out.println("La resta de ambos números es "+666* resultado1);
         //htdhbdgftgfrg456rg456hr456rg456hr456drg456zdrg
                 }
 }
